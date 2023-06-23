@@ -20,8 +20,8 @@
 
 <p align="center">
 	:mage_man: Project done in partnership with 
-		<a href="https://github.com/guilherme-dell">
-			gnuncio-
+		<a href="https://github.com/augustobecker">
+			acesar-l
 		</a>
 </p>
 
